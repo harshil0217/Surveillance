@@ -1,0 +1,448 @@
+year,country,force_count
+2010,Bangladesh,11.0
+2010,Benin,1.0
+2010,Cambodia,2.0
+2010,Central African Republic,2.0
+2010,Democratic Republic of Congo,1.0
+2010,Ivory Coast,3.0
+2010,Kenya,2.0
+2010,Morocco,2.0
+2010,Nepal,4.0
+2010,Nigeria,1.0
+2010,Pakistan,23.0
+2010,Senegal,1.0
+2010,Sierra Leone,1.0
+2010,Somalia,1.0
+2010,South Africa,2.0
+2010,Sudan,1.0
+2010,Thailand,1.0
+2010,Togo,1.0
+2010,Tunisia,9.0
+2010,Uganda,2.0
+2010,Vietnam,3.0
+2010,Zambia,1.0
+2010,eSwatini,1.0
+2011,Algeria,7.0
+2011,Bangladesh,11.0
+2011,Cambodia,2.0
+2011,Democratic Republic of Congo,1.0
+2011,Djibouti,2.0
+2011,Egypt,28.0
+2011,Ethiopia,1.0
+2011,Ivory Coast,4.0
+2011,Kenya,1.0
+2011,Liberia,1.0
+2011,Libya,15.0
+2011,Mauritania,1.0
+2011,Morocco,21.0
+2011,Nepal,1.0
+2011,Nigeria,1.0
+2011,Pakistan,11.0
+2011,Somalia,1.0
+2011,South Africa,2.0
+2011,Sri Lanka,2.0
+2011,Sudan,4.0
+2011,Tanzania,2.0
+2011,Tunisia,25.0
+2011,Uganda,2.0
+2011,Vietnam,3.0
+2012,Algeria,2.0
+2012,Bangladesh,8.0
+2012,Cambodia,6.0
+2012,Djibouti,1.0
+2012,Egypt,4.0
+2012,Guinea,2.0
+2012,Guinea-Bissau,1.0
+2012,Libya,1.0
+2012,Mali,5.0
+2012,Mauritania,1.0
+2012,Morocco,5.0
+2012,Myanmar,2.0
+2012,Nepal,2.0
+2012,Nigeria,8.0
+2012,Pakistan,11.0
+2012,Senegal,2.0
+2012,Sierra Leone,1.0
+2012,Somalia,3.0
+2012,South Africa,1.0
+2012,South Sudan,1.0
+2012,Sri Lanka,1.0
+2012,Sudan,4.0
+2012,Tanzania,2.0
+2012,Thailand,1.0
+2012,Zimbabwe,1.0
+2013,Algeria,3.0
+2013,Angola,2.0
+2013,Bangladesh,28.0
+2013,Cambodia,8.0
+2013,Central African Republic,2.0
+2013,Democratic Republic of Congo,1.0
+2013,Egypt,29.0
+2013,Ethiopia,1.0
+2013,Guinea,1.0
+2013,Ivory Coast,1.0
+2013,Kenya,2.0
+2013,Libya,4.0
+2013,Madagascar,1.0
+2013,Mali,1.0
+2013,Mauritania,3.0
+2013,Morocco,23.0
+2013,Myanmar,1.0
+2013,Nigeria,8.0
+2013,Pakistan,16.0
+2013,Senegal,2.0
+2013,Somalia,9.0
+2013,South Africa,7.0
+2013,Sri Lanka,1.0
+2013,Sudan,12.0
+2013,Thailand,6.0
+2013,Togo,3.0
+2013,Tunisia,3.0
+2013,Uganda,5.0
+2013,Vietnam,1.0
+2013,Zambia,4.0
+2013,Zimbabwe,5.0
+2014,Algeria,5.0
+2014,Angola,2.0
+2014,Bangladesh,13.0
+2014,Burkina Faso,2.0
+2014,Cambodia,7.0
+2014,Central African Republic,5.0
+2014,Chad,2.0
+2014,Democratic Republic of Congo,9.0
+2014,Egypt,23.0
+2014,Equatorial Guinea,1.0
+2014,Ethiopia,13.0
+2014,Guinea,1.0
+2014,Ivory Coast,3.0
+2014,Kenya,2.0
+2014,Liberia,1.0
+2014,Libya,3.0
+2014,Mali,1.0
+2014,Mauritania,2.0
+2014,Morocco,27.0
+2014,Myanmar,4.0
+2014,Namibia,1.0
+2014,Nepal,1.0
+2014,Niger,1.0
+2014,Nigeria,5.0
+2014,Pakistan,6.0
+2014,Senegal,2.0
+2014,Somalia,10.0
+2014,South Africa,4.0
+2014,South Sudan,2.0
+2014,Sudan,17.0
+2014,Thailand,22.0
+2014,Uganda,2.0
+2014,Vietnam,2.0
+2014,Zimbabwe,2.0
+2015,Algeria,1.0
+2015,Bangladesh,4.0
+2015,Burkina Faso,3.0
+2015,Burundi,50.0
+2015,Cambodia,1.0
+2015,Central African Republic,1.0
+2015,Democratic Republic of Congo,6.0
+2015,Djibouti,1.0
+2015,Egypt,11.0
+2015,Ethiopia,103.0
+2015,Ghana,1.0
+2015,Guinea,1.0
+2015,Indonesia,10.0
+2015,Ivory Coast,1.0
+2015,Kenya,3.0
+2015,Libya,7.0
+2015,Madagascar,2.0
+2015,Mauritania,1.0
+2015,Morocco,17.0
+2015,Nepal,4.0
+2015,Nigeria,5.0
+2015,Pakistan,9.0
+2015,Senegal,1.0
+2015,Sierra Leone,3.0
+2015,Somalia,3.0
+2015,South Africa,8.0
+2015,South Sudan,1.0
+2015,Sri Lanka,1.0
+2015,Sudan,17.0
+2015,Tanzania,2.0
+2015,Thailand,1.0
+2015,Tunisia,2.0
+2015,Uganda,1.0
+2015,Vietnam,3.0
+2015,Yemen,18.0
+2015,Zambia,1.0
+2015,Zimbabwe,7.0
+2016,Algeria,2.0
+2016,Angola,5.0
+2016,Bahrain,8.0
+2016,Bangladesh,3.0
+2016,Benin,2.0
+2016,Burundi,1.0
+2016,Cambodia,2.0
+2016,Cameroon,1.0
+2016,Chad,2.0
+2016,Democratic Republic of Congo,7.0
+2016,Djibouti,1.0
+2016,Egypt,4.0
+2016,Equatorial Guinea,1.0
+2016,Ethiopia,223.0
+2016,Gabon,1.0
+2016,Gambia,2.0
+2016,Ghana,1.0
+2016,Guinea,1.0
+2016,India,130.0
+2016,Indonesia,10.0
+2016,Iran,1.0
+2016,Iraq,4.0
+2016,Ivory Coast,1.0
+2016,Kenya,5.0
+2016,Liberia,3.0
+2016,Libya,2.0
+2016,Madagascar,1.0
+2016,Mali,1.0
+2016,Mauritania,1.0
+2016,Morocco,11.0
+2016,Myanmar,1.0
+2016,Nepal,1.0
+2016,Nigeria,11.0
+2016,Pakistan,8.0
+2016,Palestine,15.0
+2016,Philippines,6.0
+2016,Senegal,1.0
+2016,Somalia,7.0
+2016,South Africa,4.0
+2016,South Sudan,1.0
+2016,Sudan,35.0
+2016,Togo,1.0
+2016,Turkey,10.0
+2016,Yemen,1.0
+2016,Zimbabwe,4.0
+2016,eSwatini,1.0
+2017,Afghanistan,1.0
+2017,Algeria,4.0
+2017,Angola,10.0
+2017,Bahrain,4.0
+2017,Burkina Faso,1.0
+2017,Cameroon,27.0
+2017,Central African Republic,1.0
+2017,Chad,1.0
+2017,Democratic Republic of Congo,25.0
+2017,Djibouti,1.0
+2017,Ethiopia,20.0
+2017,Gabon,1.0
+2017,Ghana,1.0
+2017,Guinea,2.0
+2017,Guinea-Bissau,2.0
+2017,India,21.0
+2017,Indonesia,5.0
+2017,Iran,4.0
+2017,Iraq,1.0
+2017,Israel,1.0
+2017,Ivory Coast,1.0
+2017,Kenya,19.0
+2017,Mali,1.0
+2017,Mauritania,4.0
+2017,Morocco,6.0
+2017,Nepal,1.0
+2017,Nigeria,9.0
+2017,Pakistan,2.0
+2017,Palestine,19.0
+2017,Saudi Arabia,1.0
+2017,Sierra Leone,1.0
+2017,Somalia,8.0
+2017,South Africa,3.0
+2017,South Sudan,1.0
+2017,Sri Lanka,1.0
+2017,Sudan,18.0
+2017,Syria,27.0
+2017,Togo,5.0
+2017,Turkey,1.0
+2017,Uganda,8.0
+2017,Vietnam,1.0
+2017,Yemen,3.0
+2017,Zambia,1.0
+2017,Zimbabwe,3.0
+2018,Afghanistan,3.0
+2018,Algeria,1.0
+2018,Angola,2.0
+2018,Argentina,4.0
+2018,Armenia,1.0
+2018,Bahrain,2.0
+2018,Bangladesh,6.0
+2018,Belarus,5.0
+2018,Bolivia,1.0
+2018,Brazil,6.0
+2018,Cambodia,1.0
+2018,Chad,1.0
+2018,Chile,3.0
+2018,China,21.0
+2018,Colombia,3.0
+2018,Costa Rica,2.0
+2018,Democratic Republic of Congo,28.0
+2018,Dominican Republic,5.0
+2018,Ethiopia,53.0
+2018,Ghana,1.0
+2018,Guatemala,2.0
+2018,Guinea,7.0
+2018,Haiti,11.0
+2018,Honduras,5.0
+2018,India,22.0
+2018,Indonesia,7.0
+2018,Iran,2.0
+2018,Iraq,9.0
+2018,Kenya,6.0
+2018,Kosovo,1.0
+2018,Lebanon,1.0
+2018,Libya,1.0
+2018,Madagascar,1.0
+2018,Mauritania,3.0
+2018,Mexico,5.0
+2018,Morocco,1.0
+2018,Mozambique,1.0
+2018,Myanmar,1.0
+2018,Nepal,2.0
+2018,Nicaragua,158.0
+2018,Nigeria,4.0
+2018,Pakistan,2.0
+2018,Palestine,455.0
+2018,Philippines,3.0
+2018,Russia,4.0
+2018,Sierra Leone,1.0
+2018,Somalia,4.0
+2018,South Africa,7.0
+2018,Sudan,9.0
+2018,Syria,9.0
+2018,Tanzania,1.0
+2018,Togo,1.0
+2018,Turkey,2.0
+2018,Uganda,5.0
+2018,Ukraine,2.0
+2018,Venezuela,27.0
+2018,Vietnam,1.0
+2018,Yemen,14.0
+2018,Zimbabwe,1.0
+2018,eSwatini,3.0
+2019,Afghanistan,4.0
+2019,Algeria,1.0
+2019,Angola,3.0
+2019,Argentina,1.0
+2019,Armenia,1.0
+2019,Bahrain,1.0
+2019,Bangladesh,1.0
+2019,Brazil,6.0
+2019,Burundi,1.0
+2019,Cambodia,1.0
+2019,Cameroon,1.0
+2019,Chad,2.0
+2019,Chile,30.0
+2019,China,12.0
+2019,Colombia,9.0
+2019,Costa Rica,2.0
+2019,Democratic Republic of Congo,6.0
+2019,Djibouti,1.0
+2019,Egypt,1.0
+2019,Ethiopia,7.0
+2019,Ghana,1.0
+2019,Greece,1.0
+2019,Guatemala,2.0
+2019,Guinea,7.0
+2019,Guinea-Bissau,1.0
+2019,Haiti,8.0
+2019,Honduras,5.0
+2019,India,14.0
+2019,Indonesia,1.0
+2019,Iran,3.0
+2019,Iraq,18.0
+2019,Israel,1.0
+2019,Ivory Coast,2.0
+2019,Jordan,1.0
+2019,Kenya,2.0
+2019,Kosovo,1.0
+2019,Lebanon,9.0
+2019,Liberia,1.0
+2019,Libya,3.0
+2019,Malawi,1.0
+2019,Mauritania,1.0
+2019,Mexico,4.0
+2019,Moldova,2.0
+2019,Montenegro,1.0
+2019,Morocco,4.0
+2019,Myanmar,4.0
+2019,Nicaragua,4.0
+2019,Nigeria,18.0
+2019,Pakistan,5.0
+2019,Palestine,98.0
+2019,Peru,1.0
+2019,Russia,8.0
+2019,Rwanda,1.0
+2019,Somalia,5.0
+2019,South Africa,4.0
+2019,South Korea,2.0
+2019,South Sudan,1.0
+2019,Sudan,75.0
+2019,Syria,14.0
+2019,Togo,2.0
+2019,Turkey,10.0
+2019,Uganda,6.0
+2019,Venezuela,61.0
+2019,Vietnam,2.0
+2019,Yemen,18.0
+2020,Afghanistan,3.0
+2020,Angola,5.0
+2020,Argentina,4.0
+2020,Armenia,1.0
+2020,Azerbaijan,1.0
+2020,Bangladesh,4.0
+2020,Belarus,31.0
+2020,Belize,1.0
+2020,Bolivia,1.0
+2020,Brazil,3.0
+2020,Cambodia,4.0
+2020,Cameroon,2.0
+2020,Central African Republic,1.0
+2020,Chad,3.0
+2020,Chile,11.0
+2020,China,2.0
+2020,Colombia,3.0
+2020,Costa Rica,2.0
+2020,Democratic Republic of Congo,8.0
+2020,Djibouti,4.0
+2020,Egypt,4.0
+2020,El Salvador,1.0
+2020,Ethiopia,34.0
+2020,Ghana,1.0
+2020,Guinea,2.0
+2020,Guyana,2.0
+2020,Haiti,6.0
+2020,Honduras,1.0
+2020,India,11.0
+2020,Indonesia,5.0
+2020,Iran,4.0
+2020,Iraq,30.0
+2020,Israel,6.0
+2020,Italy,1.0
+2020,Ivory Coast,1.0
+2020,Kenya,1.0
+2020,Kyrgyzstan,1.0
+2020,Lebanon,2.0
+2020,Libya,6.0
+2020,Mexico,9.0
+2020,Mozambique,1.0
+2020,Nigeria,31.0
+2020,Pakistan,2.0
+2020,Palestine,15.0
+2020,Peru,1.0
+2020,Russia,1.0
+2020,Somalia,11.0
+2020,South Africa,2.0
+2020,South Korea,2.0
+2020,Sudan,12.0
+2020,Syria,15.0
+2020,Thailand,1.0
+2020,Tunisia,2.0
+2020,Uganda,4.0
+2020,United States,116.0
+2020,Venezuela,14.0
+2020,Yemen,13.0
+2020,Zambia,2.0

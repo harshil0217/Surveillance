@@ -1,0 +1,923 @@
+year,country,peaceful_count
+2010,Algeria,7.0
+2010,Bangladesh,470.0
+2010,Benin,7.0
+2010,Burkina Faso,3.0
+2010,Burundi,3.0
+2010,Cambodia,153.0
+2010,Cameroon,2.0
+2010,Central African Republic,1.0
+2010,Democratic Republic of Congo,3.0
+2010,Djibouti,2.0
+2010,Egypt,32.0
+2010,Ethiopia,3.0
+2010,Gabon,1.0
+2010,Ghana,6.0
+2010,Guinea,3.0
+2010,Guinea-Bissau,1.0
+2010,Ivory Coast,44.0
+2010,Kenya,33.0
+2010,Lesotho,2.0
+2010,Liberia,2.0
+2010,Libya,1.0
+2010,Madagascar,5.0
+2010,Malawi,3.0
+2010,Mali,2.0
+2010,Mauritania,5.0
+2010,Morocco,5.0
+2010,Myanmar,50.0
+2010,Namibia,9.0
+2010,Nepal,196.0
+2010,Niger,2.0
+2010,Nigeria,84.0
+2010,Pakistan,3483.0
+2010,Rwanda,1.0
+2010,Senegal,7.0
+2010,Sierra Leone,6.0
+2010,Somalia,70.0
+2010,South Africa,144.0
+2010,Sri Lanka,93.0
+2010,Sudan,9.0
+2010,Tanzania,1.0
+2010,Thailand,182.0
+2010,Togo,9.0
+2010,Tunisia,9.0
+2010,Uganda,12.0
+2010,Vietnam,3.0
+2010,Zambia,2.0
+2010,Zimbabwe,13.0
+2011,Algeria,58.0
+2011,Angola,2.0
+2011,Bangladesh,491.0
+2011,Benin,3.0
+2011,Burkina Faso,36.0
+2011,Burundi,2.0
+2011,Cambodia,130.0
+2011,Central African Republic,6.0
+2011,Democratic Republic of Congo,39.0
+2011,Djibouti,4.0
+2011,Egypt,872.0
+2011,Equatorial Guinea,1.0
+2011,Ethiopia,1.0
+2011,Gambia,1.0
+2011,Ghana,3.0
+2011,Guinea,2.0
+2011,Guinea-Bissau,5.0
+2011,Ivory Coast,4.0
+2011,Kenya,9.0
+2011,Lesotho,3.0
+2011,Liberia,7.0
+2011,Libya,25.0
+2011,Mali,2.0
+2011,Mauritania,10.0
+2011,Morocco,134.0
+2011,Mozambique,1.0
+2011,Myanmar,34.0
+2011,Namibia,6.0
+2011,Nepal,148.0
+2011,Niger,1.0
+2011,Nigeria,15.0
+2011,Pakistan,2320.0
+2011,Senegal,12.0
+2011,Somalia,67.0
+2011,South Africa,138.0
+2011,South Sudan,1.0
+2011,Sri Lanka,143.0
+2011,Sudan,12.0
+2011,Tanzania,3.0
+2011,Thailand,95.0
+2011,Togo,5.0
+2011,Tunisia,290.0
+2011,Uganda,7.0
+2011,Vietnam,8.0
+2011,Zambia,4.0
+2011,Zimbabwe,12.0
+2011,eSwatini,4.0
+2012,Algeria,43.0
+2012,Angola,7.0
+2012,Bangladesh,385.0
+2012,Benin,9.0
+2012,Burkina Faso,40.0
+2012,Cambodia,137.0
+2012,Cameroon,5.0
+2012,Central African Republic,9.0
+2012,Democratic Republic of Congo,40.0
+2012,Egypt,196.0
+2012,Ethiopia,21.0
+2012,Gambia,1.0
+2012,Ghana,9.0
+2012,Guinea,6.0
+2012,Guinea-Bissau,2.0
+2012,Ivory Coast,3.0
+2012,Kenya,57.0
+2012,Laos,1.0
+2012,Lesotho,2.0
+2012,Liberia,10.0
+2012,Libya,56.0
+2012,Madagascar,23.0
+2012,Malawi,3.0
+2012,Mali,39.0
+2012,Mauritania,47.0
+2012,Morocco,38.0
+2012,Mozambique,8.0
+2012,Myanmar,235.0
+2012,Namibia,105.0
+2012,Nepal,265.0
+2012,Nigeria,137.0
+2012,Pakistan,4398.0
+2012,Republic of Congo,1.0
+2012,Senegal,15.0
+2012,Sierra Leone,3.0
+2012,Somalia,67.0
+2012,South Africa,432.0
+2012,South Sudan,12.0
+2012,Sri Lanka,140.0
+2012,Sudan,39.0
+2012,Tanzania,18.0
+2012,Thailand,113.0
+2012,Togo,7.0
+2012,Tunisia,178.0
+2012,Uganda,33.0
+2012,Vietnam,16.0
+2012,Zambia,12.0
+2012,Zimbabwe,27.0
+2012,eSwatini,22.0
+2013,Algeria,89.0
+2013,Angola,2.0
+2013,Bangladesh,279.0
+2013,Benin,6.0
+2013,Burkina Faso,22.0
+2013,Cambodia,146.0
+2013,Cameroon,2.0
+2013,Central African Republic,16.0
+2013,Chad,1.0
+2013,Democratic Republic of Congo,29.0
+2013,Djibouti,2.0
+2013,Egypt,986.0
+2013,Ethiopia,9.0
+2013,Gabon,10.0
+2013,Gambia,1.0
+2013,Ghana,14.0
+2013,Guinea,10.0
+2013,Ivory Coast,15.0
+2013,Kenya,187.0
+2013,Liberia,30.0
+2013,Libya,114.0
+2013,Madagascar,9.0
+2013,Malawi,5.0
+2013,Mali,19.0
+2013,Mauritania,38.0
+2013,Morocco,44.0
+2013,Mozambique,12.0
+2013,Myanmar,241.0
+2013,Namibia,67.0
+2013,Nepal,265.0
+2013,Niger,5.0
+2013,Nigeria,239.0
+2013,Pakistan,3974.0
+2013,Rwanda,2.0
+2013,Senegal,21.0
+2013,Sierra Leone,2.0
+2013,Somalia,140.0
+2013,South Africa,530.0
+2013,South Sudan,9.0
+2013,Sri Lanka,135.0
+2013,Sudan,71.0
+2013,Tanzania,11.0
+2013,Thailand,276.0
+2013,Togo,25.0
+2013,Tunisia,133.0
+2013,Uganda,34.0
+2013,Vietnam,5.0
+2013,Zambia,32.0
+2013,Zimbabwe,34.0
+2013,eSwatini,1.0
+2014,Algeria,101.0
+2014,Angola,3.0
+2014,Bangladesh,109.0
+2014,Benin,6.0
+2014,Botswana,3.0
+2014,Burkina Faso,73.0
+2014,Burundi,4.0
+2014,Cambodia,164.0
+2014,Cameroon,6.0
+2014,Central African Republic,36.0
+2014,Chad,5.0
+2014,Democratic Republic of Congo,98.0
+2014,Egypt,251.0
+2014,Equatorial Guinea,1.0
+2014,Eritrea,2.0
+2014,Ethiopia,60.0
+2014,Gabon,6.0
+2014,Gambia,3.0
+2014,Ghana,21.0
+2014,Guinea,6.0
+2014,Ivory Coast,26.0
+2014,Kenya,149.0
+2014,Laos,1.0
+2014,Liberia,47.0
+2014,Libya,176.0
+2014,Madagascar,16.0
+2014,Malawi,9.0
+2014,Mali,16.0
+2014,Mauritania,33.0
+2014,Morocco,47.0
+2014,Mozambique,10.0
+2014,Myanmar,424.0
+2014,Namibia,41.0
+2014,Nepal,161.0
+2014,Niger,2.0
+2014,Nigeria,435.0
+2014,Pakistan,2346.0
+2014,Republic of Congo,4.0
+2014,Rwanda,4.0
+2014,Senegal,56.0
+2014,Sierra Leone,1.0
+2014,Somalia,130.0
+2014,South Africa,441.0
+2014,South Sudan,43.0
+2014,Sri Lanka,94.0
+2014,Sudan,130.0
+2014,Tanzania,13.0
+2014,Thailand,206.0
+2014,Togo,8.0
+2014,Tunisia,115.0
+2014,Uganda,13.0
+2014,Vietnam,13.0
+2014,Zambia,27.0
+2014,Zimbabwe,54.0
+2014,eSwatini,3.0
+2015,Algeria,234.0
+2015,Angola,3.0
+2015,Bangladesh,311.0
+2015,Benin,3.0
+2015,Botswana,1.0
+2015,Burkina Faso,54.0
+2015,Burundi,116.0
+2015,Cambodia,89.0
+2015,Cameroon,15.0
+2015,Central African Republic,41.0
+2015,Chad,3.0
+2015,Democratic Republic of Congo,120.0
+2015,Djibouti,1.0
+2015,Egypt,162.0
+2015,Ethiopia,150.0
+2015,Gabon,6.0
+2015,Gambia,14.0
+2015,Ghana,33.0
+2015,Guinea,5.0
+2015,Indonesia,316.0
+2015,Ivory Coast,20.0
+2015,Kenya,98.0
+2015,Laos,1.0
+2015,Lesotho,1.0
+2015,Liberia,34.0
+2015,Libya,167.0
+2015,Madagascar,15.0
+2015,Malawi,22.0
+2015,Mali,9.0
+2015,Mauritania,21.0
+2015,Morocco,64.0
+2015,Mozambique,9.0
+2015,Myanmar,293.0
+2015,Namibia,55.0
+2015,Nepal,339.0
+2015,Niger,6.0
+2015,Nigeria,523.0
+2015,Pakistan,3188.0
+2015,Republic of Congo,7.0
+2015,Rwanda,22.0
+2015,Saudi Arabia,1.0
+2015,Senegal,59.0
+2015,Sierra Leone,11.0
+2015,Somalia,109.0
+2015,South Africa,559.0
+2015,South Sudan,28.0
+2015,Sri Lanka,203.0
+2015,Sudan,93.0
+2015,Tanzania,11.0
+2015,Thailand,79.0
+2015,Togo,10.0
+2015,Tunisia,291.0
+2015,Uganda,60.0
+2015,Vietnam,38.0
+2015,Yemen,200.0
+2015,Zambia,31.0
+2015,Zimbabwe,69.0
+2015,eSwatini,2.0
+2016,Algeria,221.0
+2016,Angola,7.0
+2016,Bahrain,1953.0
+2016,Bangladesh,244.0
+2016,Benin,6.0
+2016,Botswana,1.0
+2016,Burkina Faso,42.0
+2016,Burundi,92.0
+2016,Cambodia,162.0
+2016,Cameroon,12.0
+2016,Central African Republic,22.0
+2016,Chad,9.0
+2016,Democratic Republic of Congo,107.0
+2016,Egypt,145.0
+2016,Ethiopia,496.0
+2016,Gabon,6.0
+2016,Gambia,3.0
+2016,Ghana,59.0
+2016,Guinea,9.0
+2016,Guinea-Bissau,1.0
+2016,India,8714.0
+2016,Indonesia,238.0
+2016,Iran,1545.0
+2016,Iraq,123.0
+2016,Israel,125.0
+2016,Ivory Coast,14.0
+2016,Jordan,84.0
+2016,Kenya,76.0
+2016,Kuwait,9.0
+2016,Lebanon,457.0
+2016,Liberia,20.0
+2016,Libya,84.0
+2016,Madagascar,29.0
+2016,Malawi,20.0
+2016,Mali,10.0
+2016,Mauritania,9.0
+2016,Morocco,78.0
+2016,Mozambique,4.0
+2016,Myanmar,244.0
+2016,Namibia,28.0
+2016,Nepal,241.0
+2016,Niger,12.0
+2016,Nigeria,438.0
+2016,Pakistan,3300.0
+2016,Palestine,67.0
+2016,Philippines,157.0
+2016,Republic of Congo,2.0
+2016,Saudi Arabia,6.0
+2016,Senegal,25.0
+2016,Sierra Leone,5.0
+2016,Somalia,103.0
+2016,South Africa,700.0
+2016,South Sudan,27.0
+2016,Sri Lanka,373.0
+2016,Sudan,89.0
+2016,Tanzania,2.0
+2016,Thailand,50.0
+2016,Togo,2.0
+2016,Tunisia,480.0
+2016,Turkey,1986.0
+2016,Uganda,31.0
+2016,Vietnam,29.0
+2016,Yemen,82.0
+2016,Zambia,11.0
+2016,Zimbabwe,51.0
+2016,eSwatini,2.0
+2017,Afghanistan,126.0
+2017,Algeria,337.0
+2017,Angola,20.0
+2017,Bahrain,2232.0
+2017,Bangladesh,228.0
+2017,Benin,24.0
+2017,Botswana,2.0
+2017,Burkina Faso,64.0
+2017,Burundi,115.0
+2017,Cambodia,80.0
+2017,Cameroon,11.0
+2017,Central African Republic,25.0
+2017,Chad,2.0
+2017,Democratic Republic of Congo,58.0
+2017,Egypt,90.0
+2017,Equatorial Guinea,1.0
+2017,Ethiopia,119.0
+2017,Gabon,9.0
+2017,Gambia,12.0
+2017,Ghana,38.0
+2017,Guinea,19.0
+2017,Guinea-Bissau,8.0
+2017,India,9506.0
+2017,Indonesia,154.0
+2017,Iran,2317.0
+2017,Iraq,38.0
+2017,Israel,274.0
+2017,Ivory Coast,11.0
+2017,Jordan,106.0
+2017,Kenya,186.0
+2017,Kuwait,4.0
+2017,Laos,2.0
+2017,Lebanon,388.0
+2017,Liberia,19.0
+2017,Libya,126.0
+2017,Madagascar,13.0
+2017,Malawi,12.0
+2017,Mali,17.0
+2017,Mauritania,36.0
+2017,Morocco,116.0
+2017,Mozambique,3.0
+2017,Myanmar,207.0
+2017,Namibia,23.0
+2017,Nepal,239.0
+2017,Niger,5.0
+2017,Nigeria,457.0
+2017,Pakistan,3790.0
+2017,Palestine,189.0
+2017,Philippines,383.0
+2017,Republic of Congo,2.0
+2017,Saudi Arabia,1.0
+2017,Senegal,22.0
+2017,Sierra Leone,9.0
+2017,Somalia,105.0
+2017,South Africa,543.0
+2017,South Sudan,34.0
+2017,Sri Lanka,333.0
+2017,Sudan,97.0
+2017,Syria,174.0
+2017,Tanzania,4.0
+2017,Thailand,68.0
+2017,Togo,17.0
+2017,Tunisia,454.0
+2017,Turkey,496.0
+2017,Uganda,25.0
+2017,United Arab Emirates,1.0
+2017,Vietnam,24.0
+2017,Yemen,114.0
+2017,Zambia,6.0
+2017,Zimbabwe,42.0
+2017,eSwatini,1.0
+2018,Afghanistan,209.0
+2018,Albania,209.0
+2018,Algeria,474.0
+2018,Angola,22.0
+2018,Antigua and Barbuda,23.0
+2018,Argentina,1891.0
+2018,Armenia,340.0
+2018,Azerbaijan,49.0
+2018,Bahamas,21.0
+2018,Bahrain,815.0
+2018,Bangladesh,433.0
+2018,Barbados,2.0
+2018,Belarus,74.0
+2018,Belize,15.0
+2018,Benin,9.0
+2018,Bolivia,269.0
+2018,Bosnia and Herzegovina,211.0
+2018,Botswana,6.0
+2018,Brazil,6463.0
+2018,Bulgaria,362.0
+2018,Burkina Faso,77.0
+2018,Burundi,83.0
+2018,Cambodia,54.0
+2018,Cameroon,15.0
+2018,Caribbean Netherlands,4.0
+2018,Central African Republic,19.0
+2018,Chad,5.0
+2018,Chile,962.0
+2018,China,2078.0
+2018,Colombia,392.0
+2018,Costa Rica,285.0
+2018,Croatia,162.0
+2018,Cuba,5.0
+2018,Curacao,5.0
+2018,Cyprus,86.0
+2018,Democratic Republic of Congo,55.0
+2018,Dominica,10.0
+2018,Dominican Republic,25.0
+2018,Ecuador,160.0
+2018,Egypt,65.0
+2018,El Salvador,152.0
+2018,Eritrea,1.0
+2018,Ethiopia,221.0
+2018,French Guiana,34.0
+2018,Gabon,13.0
+2018,Gambia,3.0
+2018,Georgia,663.0
+2018,Ghana,28.0
+2018,Greece,191.0
+2018,Grenada,10.0
+2018,Guadeloupe,32.0
+2018,Guatemala,189.0
+2018,Guinea,33.0
+2018,Guinea-Bissau,9.0
+2018,Guyana,93.0
+2018,Haiti,115.0
+2018,Honduras,400.0
+2018,India,12075.0
+2018,Indonesia,722.0
+2018,Iran,2889.0
+2018,Iraq,508.0
+2018,Israel,372.0
+2018,Ivory Coast,12.0
+2018,Jamaica,17.0
+2018,Japan,1527.0
+2018,Jordan,459.0
+2018,Kazakhstan,143.0
+2018,Kenya,123.0
+2018,Kosovo,103.0
+2018,Kuwait,5.0
+2018,Kyrgyzstan,143.0
+2018,Laos,1.0
+2018,Lebanon,362.0
+2018,Liberia,15.0
+2018,Libya,111.0
+2018,Madagascar,18.0
+2018,Malawi,14.0
+2018,Malaysia,141.0
+2018,Mali,51.0
+2018,Martinique,42.0
+2018,Mauritania,40.0
+2018,Mexico,4244.0
+2018,Moldova,172.0
+2018,Mongolia,60.0
+2018,Montenegro,78.0
+2018,Morocco,183.0
+2018,Mozambique,8.0
+2018,Myanmar,217.0
+2018,Namibia,31.0
+2018,Nepal,1242.0
+2018,Nicaragua,61.0
+2018,Niger,22.0
+2018,Nigeria,396.0
+2018,North Macedonia,78.0
+2018,Oman,3.0
+2018,Pakistan,5168.0
+2018,Palestine,146.0
+2018,Panama,471.0
+2018,Paraguay,249.0
+2018,Peru,298.0
+2018,Philippines,148.0
+2018,Puerto Rico,86.0
+2018,Republic of Congo,1.0
+2018,Romania,536.0
+2018,Russia,1032.0
+2018,Rwanda,3.0
+2018,Saint Kitts and Nevis,2.0
+2018,Saint Lucia,1.0
+2018,Saudi Arabia,1.0
+2018,Senegal,48.0
+2018,Serbia,191.0
+2018,Sierra Leone,21.0
+2018,Sint Maarten,1.0
+2018,Somalia,85.0
+2018,South Africa,488.0
+2018,South Korea,3931.0
+2018,South Sudan,14.0
+2018,Sri Lanka,404.0
+2018,Sudan,93.0
+2018,Suriname,26.0
+2018,Syria,522.0
+2018,Taiwan,622.0
+2018,Tajikistan,5.0
+2018,Tanzania,6.0
+2018,Thailand,83.0
+2018,Togo,14.0
+2018,Trinidad and Tobago,93.0
+2018,Tunisia,375.0
+2018,Turkey,1379.0
+2018,Turkmenistan,1.0
+2018,Turks and Caicos Islands,2.0
+2018,Uganda,50.0
+2018,Ukraine,1269.0
+2018,Uruguay,41.0
+2018,Uzbekistan,7.0
+2018,Venezuela,1827.0
+2018,Vietnam,34.0
+2018,Yemen,304.0
+2018,Zambia,12.0
+2018,Zimbabwe,52.0
+2019,Afghanistan,55.0
+2019,Albania,235.0
+2019,Algeria,2006.0
+2019,Angola,30.0
+2019,Antigua and Barbuda,8.0
+2019,Argentina,1083.0
+2019,Armenia,295.0
+2019,Aruba,3.0
+2019,Azerbaijan,31.0
+2019,Bahamas,6.0
+2019,Bahrain,353.0
+2019,Bangladesh,890.0
+2019,Belarus,147.0
+2019,Belize,8.0
+2019,Benin,11.0
+2019,Bolivia,431.0
+2019,Bosnia and Herzegovina,136.0
+2019,Botswana,10.0
+2019,Brazil,3261.0
+2019,Bulgaria,373.0
+2019,Burkina Faso,129.0
+2019,Burundi,48.0
+2019,Cambodia,61.0
+2019,Cameroon,27.0
+2019,Cayman Islands,1.0
+2019,Central African Republic,32.0
+2019,Chad,24.0
+2019,Chile,1354.0
+2019,China,2122.0
+2019,Colombia,572.0
+2019,Costa Rica,317.0
+2019,Croatia,202.0
+2019,Cuba,10.0
+2019,Curacao,8.0
+2019,Cyprus,173.0
+2019,Democratic Republic of Congo,425.0
+2019,Djibouti,5.0
+2019,Dominica,11.0
+2019,Dominican Republic,20.0
+2019,Ecuador,310.0
+2019,Egypt,80.0
+2019,El Salvador,98.0
+2019,Equatorial Guinea,1.0
+2019,Ethiopia,115.0
+2019,Gabon,26.0
+2019,Gambia,5.0
+2019,Georgia,777.0
+2019,Ghana,63.0
+2019,Greece,463.0
+2019,Grenada,1.0
+2019,Guadeloupe,9.0
+2019,Guatemala,284.0
+2019,Guinea,82.0
+2019,Guinea-Bissau,6.0
+2019,Guyana,49.0
+2019,Haiti,159.0
+2019,Honduras,614.0
+2019,India,15979.0
+2019,Indonesia,967.0
+2019,Iran,2162.0
+2019,Iraq,923.0
+2019,Israel,399.0
+2019,Ivory Coast,76.0
+2019,Jamaica,19.0
+2019,Japan,1211.0
+2019,Jordan,554.0
+2019,Kazakhstan,440.0
+2019,Kenya,120.0
+2019,Kosovo,105.0
+2019,Kuwait,18.0
+2019,Kyrgyzstan,204.0
+2019,Lebanon,2799.0
+2019,Lesotho,5.0
+2019,Liberia,30.0
+2019,Libya,125.0
+2019,Madagascar,32.0
+2019,Malawi,38.0
+2019,Malaysia,160.0
+2019,Mali,90.0
+2019,Martinique,12.0
+2019,Mauritania,104.0
+2019,Mexico,4763.0
+2019,Moldova,168.0
+2019,Mongolia,83.0
+2019,Montenegro,116.0
+2019,Morocco,758.0
+2019,Mozambique,15.0
+2019,Myanmar,437.0
+2019,Namibia,38.0
+2019,Nepal,2097.0
+2019,Nicaragua,110.0
+2019,Niger,29.0
+2019,Nigeria,573.0
+2019,North Macedonia,181.0
+2019,Oman,2.0
+2019,Pakistan,6064.0
+2019,Palestine,177.0
+2019,Panama,343.0
+2019,Paraguay,493.0
+2019,Peru,510.0
+2019,Philippines,298.0
+2019,Puerto Rico,56.0
+2019,Qatar,3.0
+2019,Republic of Congo,9.0
+2019,Romania,563.0
+2019,Russia,1880.0
+2019,Rwanda,1.0
+2019,Saint Lucia,2.0
+2019,Saint-Martin,6.0
+2019,Saudi Arabia,1.0
+2019,Senegal,29.0
+2019,Serbia,995.0
+2019,Sierra Leone,20.0
+2019,Sint Maarten,1.0
+2019,Somalia,70.0
+2019,South Africa,813.0
+2019,South Korea,5285.0
+2019,South Sudan,16.0
+2019,Sri Lanka,634.0
+2019,Sudan,850.0
+2019,Suriname,7.0
+2019,Syria,334.0
+2019,Taiwan,786.0
+2019,Tajikistan,4.0
+2019,Tanzania,6.0
+2019,Thailand,161.0
+2019,Togo,4.0
+2019,Trinidad and Tobago,44.0
+2019,Tunisia,1204.0
+2019,Turkey,2311.0
+2019,Turkmenistan,1.0
+2019,Turks and Caicos Islands,1.0
+2019,Uganda,49.0
+2019,Ukraine,1397.0
+2019,United Arab Emirates,1.0
+2019,Uruguay,45.0
+2019,Uzbekistan,39.0
+2019,Venezuela,2432.0
+2019,Vietnam,15.0
+2019,Yemen,365.0
+2019,Zambia,4.0
+2019,Zimbabwe,35.0
+2019,eSwatini,14.0
+2020,Afghanistan,138.0
+2020,Albania,190.0
+2020,Algeria,1912.0
+2020,Andorra,5.0
+2020,Angola,34.0
+2020,Anguilla,1.0
+2020,Antigua and Barbuda,7.0
+2020,Argentina,2705.0
+2020,Armenia,274.0
+2020,Aruba,4.0
+2020,Austria,341.0
+2020,Azerbaijan,44.0
+2020,Bahamas,4.0
+2020,Bahrain,114.0
+2020,Bailiwick of Guernsey,6.0
+2020,Bailiwick of Jersey,5.0
+2020,Bangladesh,932.0
+2020,Barbados,6.0
+2020,Belarus,1468.0
+2020,Belgium,756.0
+2020,Belize,9.0
+2020,Benin,17.0
+2020,Bhutan,1.0
+2020,Bolivia,628.0
+2020,Bosnia and Herzegovina,133.0
+2020,Botswana,2.0
+2020,Brazil,2429.0
+2020,Bulgaria,854.0
+2020,Burkina Faso,69.0
+2020,Burundi,6.0
+2020,Cambodia,69.0
+2020,Cameroon,113.0
+2020,Cape Verde,54.0
+2020,Caribbean Netherlands,3.0
+2020,Cayman Islands,2.0
+2020,Central African Republic,32.0
+2020,Chad,11.0
+2020,Chile,900.0
+2020,China,1569.0
+2020,Colombia,670.0
+2020,Comoros,10.0
+2020,Costa Rica,542.0
+2020,Croatia,130.0
+2020,Cuba,37.0
+2020,Curacao,12.0
+2020,Cyprus,217.0
+2020,Czech Republic,211.0
+2020,Democratic Republic of Congo,359.0
+2020,Denmark,540.0
+2020,Djibouti,22.0
+2020,Dominica,5.0
+2020,Dominican Republic,54.0
+2020,East Timor,4.0
+2020,Ecuador,369.0
+2020,Egypt,48.0
+2020,El Salvador,199.0
+2020,Estonia,140.0
+2020,Ethiopia,41.0
+2020,Faroe Islands,1.0
+2020,Finland,209.0
+2020,France,4928.0
+2020,French Guiana,12.0
+2020,Gabon,11.0
+2020,Gambia,10.0
+2020,Georgia,767.0
+2020,Germany,4173.0
+2020,Ghana,100.0
+2020,Gibraltar,1.0
+2020,Greece,626.0
+2020,Greenland,2.0
+2020,Grenada,1.0
+2020,Guadeloupe,24.0
+2020,Guatemala,173.0
+2020,Guinea,220.0
+2020,Guinea-Bissau,6.0
+2020,Guyana,36.0
+2020,Haiti,141.0
+2020,Honduras,526.0
+2020,Hungary,197.0
+2020,Iceland,29.0
+2020,India,13035.0
+2020,Indonesia,1231.0
+2020,Iran,1893.0
+2020,Iraq,1709.0
+2020,Ireland,277.0
+2020,Isle of Man,7.0
+2020,Israel,1125.0
+2020,Italy,5516.0
+2020,Ivory Coast,127.0
+2020,Jamaica,19.0
+2020,Japan,1479.0
+2020,Jordan,221.0
+2020,Kazakhstan,766.0
+2020,Kenya,99.0
+2020,Kosovo,92.0
+2020,Kuwait,12.0
+2020,Kyrgyzstan,265.0
+2020,Laos,1.0
+2020,Latvia,65.0
+2020,Lebanon,2150.0
+2020,Lesotho,6.0
+2020,Liberia,48.0
+2020,Libya,121.0
+2020,Liechtenstein,2.0
+2020,Lithuania,55.0
+2020,Luxembourg,35.0
+2020,Madagascar,21.0
+2020,Malawi,90.0
+2020,Malaysia,46.0
+2020,Maldives,44.0
+2020,Mali,127.0
+2020,Malta,42.0
+2020,Martinique,29.0
+2020,Mauritania,270.0
+2020,Mauritius,47.0
+2020,Mayotte,8.0
+2020,Mexico,5578.0
+2020,Moldova,277.0
+2020,Monaco,2.0
+2020,Mongolia,59.0
+2020,Montenegro,339.0
+2020,Morocco,1203.0
+2020,Mozambique,16.0
+2020,Myanmar,174.0
+2020,Namibia,77.0
+2020,Nepal,2371.0
+2020,Netherlands,567.0
+2020,Nicaragua,27.0
+2020,Niger,7.0
+2020,Nigeria,783.0
+2020,North Korea,1.0
+2020,North Macedonia,224.0
+2020,Norway,275.0
+2020,Pakistan,8042.0
+2020,Palestine,246.0
+2020,Panama,339.0
+2020,Paraguay,692.0
+2020,Peru,877.0
+2020,Philippines,263.0
+2020,Poland,1781.0
+2020,Portugal,359.0
+2020,Puerto Rico,32.0
+2020,Qatar,2.0
+2020,Republic of Congo,9.0
+2020,Reunion,64.0
+2020,Romania,175.0
+2020,Russia,1361.0
+2020,"Saint Helena, Ascension and Tristan da Cunha",2.0
+2020,Saint Kitts and Nevis,1.0
+2020,Saint Lucia,7.0
+2020,Saint-Martin,6.0
+2020,San Marino,2.0
+2020,Sao Tome and Principe,2.0
+2020,Saudi Arabia,3.0
+2020,Senegal,38.0
+2020,Serbia,389.0
+2020,Seychelles,7.0
+2020,Sierra Leone,17.0
+2020,Singapore,2.0
+2020,Sint Maarten,9.0
+2020,Slovakia,136.0
+2020,Slovenia,128.0
+2020,Somalia,99.0
+2020,South Africa,998.0
+2020,South Korea,4829.0
+2020,South Sudan,36.0
+2020,Spain,3330.0
+2020,Sri Lanka,405.0
+2020,Sudan,460.0
+2020,Suriname,26.0
+2020,Sweden,885.0
+2020,Switzerland,152.0
+2020,Syria,449.0
+2020,Taiwan,515.0
+2020,Tajikistan,13.0
+2020,Tanzania,1.0
+2020,Thailand,798.0
+2020,Togo,18.0
+2020,Trinidad and Tobago,63.0
+2020,Tunisia,1481.0
+2020,Turkey,1761.0
+2020,Turkmenistan,6.0
+2020,Turks and Caicos Islands,2.0
+2020,Uganda,66.0
+2020,Ukraine,1345.0
+2020,United Kingdom,2094.0
+2020,United States,20665.0
+2020,Uruguay,55.0
+2020,Uzbekistan,175.0
+2020,Vatican City,2.0
+2020,Venezuela,2379.0
+2020,Vietnam,7.0
+2020,Yemen,611.0
+2020,Zambia,5.0
+2020,Zimbabwe,35.0
+2020,eSwatini,5.0

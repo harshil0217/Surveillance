@@ -122,7 +122,18 @@ extra = {
     'Myanmar [Burma]': 'MM',
     'Netherlands Antilles': 'NL',
     'Cape Verde': 'CV',
-    "British Virgin Islands": 'VG'
+    "British Virgin Islands": 'VG',
+    'eSwatini': 'SZ',
+    'Republic of Congo': 'CG',
+    'Caribbean Netherlands': 'BQ',
+    'Curacao': 'CW',
+    'Sint Maarten': 'SX',
+    'Saint-Martin': 'MF',
+    'Bailiwick of Guernsey':'GG',
+    'Bailiwick of Jersey' : 'JE',
+    'East Timor': 'TL',
+    'Reunion': 'RE',
+    'Vatican City': 'VA'
 }
 
 for key, value in extra.items():
